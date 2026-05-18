@@ -1,0 +1,2 @@
+# Standard libraries used only
+python>=3.6
